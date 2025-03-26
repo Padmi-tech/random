@@ -1,1 +1,1 @@
-printf("Hello world"/n);
+print("Hello world")
