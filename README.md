@@ -1,1 +1,1 @@
-# random
+printf("Hello world"/n);
